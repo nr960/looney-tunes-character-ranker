@@ -1,3 +1,4 @@
+#inspired by https://dangansort-plus.tumblr.com/
 class character:
     def __init__(self, name, place=0):
         self.name = name
